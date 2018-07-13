@@ -24,6 +24,6 @@ var pingpong=function(input){
         }else {
             var li="<li>"+x+"</li>";
         }
-$("#pop").append(li);
+$("#").append(li);
     }
 }
