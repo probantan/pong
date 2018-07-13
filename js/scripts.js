@@ -1,4 +1,4 @@
-//user interface
+//user interfac
 $(document).ready(function(){
     $('form#cup').submit(function(event) {
       event.preventDefault();
