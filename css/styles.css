@@ -1,0 +1,77 @@
+.bg{
+    background-color:rgb(255, 145, 0);
+    height: 500px;
+    text-align: center;
+    width: 1000px;
+    
+
+}
+
+
+.heading{
+    position: relative;
+    top: 80px;
+   
+}
+.pa{
+    position: relative;
+    right: 100px;
+    font-size: 15px;
+    float: right;
+    right: 60px;
+    top: 35px;
+} 
+
+
+.sub{
+    position: relative;
+    text-align: justify;
+    right: -350px;
+    top: 50px;
+    
+}
+.ol{
+    position: relative;
+    text-align: justify;
+    float: right;
+    right: 10px;
+    top: -1px;
+
+
+}
+
+
+
+input[type=text]{
+    box-sizing: border-box;
+    border-color:#92a8d1;
+
+}
+[type=submit]{
+    background-color: darkgreen
+}
+.col-md-4{
+    background-color:rgb(0, 128, 53);
+    position: relative;
+    right: 40px;
+    margin: 0px;
+    padding-left: 0px;
+}
+
+.me{
+
+    font-size: 25px;
+}
+.m{
+    font-style: italic;
+    color: bisque;
+}
+.pro{
+    color: white;
+    font-size: 20px;
+}
+.g{
+    color: bisque;
+    font-style: italic;
+}
+
