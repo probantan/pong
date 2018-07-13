@@ -1,5 +1,5 @@
 .bg{
-    background-color:rgb(255, 145, 0);
+    background-color: chocolate;
     height: 500px;
     text-align: center;
     width: 1000px;
@@ -10,7 +10,7 @@
 
 .heading{
     position: relative;
-    top: 80px;
+    top: 90px;
    
 }
 .pa{
@@ -53,9 +53,10 @@ input[type=text]{
 .col-md-4{
     background-color:rgb(0, 128, 53);
     position: relative;
-    right: 40px;
+    right: 48px;
     margin: 0px;
     padding-left: 0px;
+    top:-215px;
 }
 
 .me{
@@ -73,5 +74,9 @@ input[type=text]{
 .g{
     color: bisque;
     font-style: italic;
+}
+
+#pop{
+    list-style-type: none;
 }
 
